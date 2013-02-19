@@ -20,4 +20,4 @@ If you find any issues or opportunties for improving these presentations, fix th
 
 ### Reporting Issues ###
 
-If you find any issues with this Presentation that you can't fix, feel free to report them in the [issues](https://github.com/WindowsAzure-TrainingKit/WATK-Presentations/issues) section of this repository.
+If you find any issues with this Presentation that you can't fix, feel free to report them in the [issues](https://github.com/WindowsAzure-TrainingKit/PRESENTATION-DeployingSharePointOnVMs/issues) section of this repository.
